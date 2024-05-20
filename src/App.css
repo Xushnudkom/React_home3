@@ -1,0 +1,94 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .box_header {
+    width: 100%;
+    margin-left: 40px;
+  }
+  table, tr, td, th {
+    border: 1px  solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-weight: 700;
+  }
+  
+  .box_tittle {
+  height: 30px;
+  font-weight: bold;
+  margin-left: 200px;
+  }
+  
+  td{
+    width: 170px;
+    text-align: center;
+  }
+  
+  .id_tittle {
+    width: 30px;
+  }
+  .td_titles{
+    width: 30px;
+  }
+  
+  h1{
+    margin-left: 18px;
+  }
+  
+  .body_box {
+    width: 250px;
+    height:230px ;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-left: 1000px;
+    margin-top: -40px ;
+  }
+  .body_boxes {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    display: block;
+    margin-top: 5px;
+    padding-left: 10px;
+    margin-left: 18px;
+    font-size: 20px;
+  }
+  .body_box1 {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    display: block;
+    margin-top: 5px;
+    padding-left: 10px;
+    margin-left: 18px;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .box_footer {
+    width: 250px;
+    height: 40px ;
+    border: 1px solid black;
+    margin-left: 1000px;
+    background-color: rgb(99, 74, 74);
+  }
+  
+  button{
+    width: 218px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0;
+    background-color:rgb(99, 74, 74);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 18px;
+    margin-top: 7px;
+  }
+  
